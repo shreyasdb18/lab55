@@ -1,2 +1,2 @@
 # lab55
-git repositopry
+git repository
